@@ -1,0 +1,4 @@
+Employee{ name= intern 1 , email= email@example.com , age= 25 , salary= 20000 }
+Employee{ name= Employee two , email= employee@email.com , age= 31 , salary= 2300000 }
+Employee{ name= Employee three , email= employee@three.com , age= 43 , salary= 300000 }
+Employee{ name= Intern four , email= intern@example.com , age= 31 , salary= 12000 }
